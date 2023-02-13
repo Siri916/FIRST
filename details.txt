@@ -2,3 +2,5 @@ name : shirisha
 branch: ece
 year :2023
 rool no: 20rh1a04a4
+subject:java
+marks:100
