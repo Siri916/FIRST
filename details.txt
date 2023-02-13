@@ -1,4 +1,6 @@
 name : shirisha
 branch: ece
 year :2023
+subject:maths
+marks:70
 marks:100
